@@ -20,6 +20,10 @@
       <th scope="row">1</th>
       <td>Arduino Uno R3</td>
    </tr>
+   <tr>
+      <th scope="row">1</th>
+      <td>Protoboard</td>
+   </tr>
     <tr>
       <th scope="row">2</th>
       <td>LEDs</td>
@@ -29,11 +33,11 @@
       <td>Resistor 220 ohms</td>
    </tr>
        <tr>
-      <th scope="row">*</th>
+      <th scope="row">1</th>
       <td>Buzzer</td>
    </tr>
     <tr>
-      <th scope="row">1</th>
+      <th scope="row">*</th>
       <td>Jumpers</td>
    </tr>
 </table>
